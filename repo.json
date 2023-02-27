@@ -13,15 +13,14 @@
 		"description": "epic emualtor",
 		"bundleID": "com.libretro.RetroArch",
 		"contact": [
-			"https://retroarch.com/",
-			"https://www.libretro.com/"
+		    "https://retroarch.com/",
+		    "https://www.libretro.com/"
 		]
 	}, {
 		"name": "Delta",
 		"version": "1.3.2",
 		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
 		"down": "https://github.com/rileytestut/Delta/releases/download/1.3.2/Delta_1_3_2.ipa",
-		"dev": "Riley Testut",
 		"category": "Emulators",
 		"description": "A Offical Delta Emu without, the hasslte of Altstore",
 		"bundleID": "com.rileytestut.Delta"
@@ -35,3 +34,5 @@
 		"bundleID": "net.kdt.pojavlauncher"
 	}]
 }
+
+
