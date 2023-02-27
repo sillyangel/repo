@@ -12,10 +12,9 @@
 		"category": "Emulators",
 		"description": "epic emualtor",
 		"bundleID": "com.libretro.RetroArch",
-		"contact": [
-			"https://retroarch.com/",
-			"https://www.libretro.com/"
-		]
+		"contact": {
+			"web": "https://retroarch.com/",
+		}
 	}, {
 		"name": "Delta",
 		"version": "1.3.2",
