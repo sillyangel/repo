@@ -13,8 +13,8 @@
 		"description": "epic emualtor",
 		"bundleID": "com.libretro.RetroArch",
 		"contact": [
-		    "https://retroarch.com/",
-		    "https://www.libretro.com/"
+			"https://retroarch.com/",
+			"https://www.libretro.com/"
 		]
 	}, {
 		"name": "Delta",
@@ -34,5 +34,3 @@
 		"bundleID": "net.kdt.pojavlauncher"
 	}]
 }
-
-
