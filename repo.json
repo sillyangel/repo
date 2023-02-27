@@ -12,9 +12,6 @@
 		"category": "Emulators",
 		"description": "epic emualtor",
 		"bundleID": "com.libretro.RetroArch",
-		"screenshots": [
-			"https://raw.githubusercontent.com/sillyangel/repo/main/unnamed.webp"
-		],
 		"contact": [
 			"https://retroarch.com/",
 			"https://www.libretro.com/"
