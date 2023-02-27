@@ -7,7 +7,7 @@
 		"name": "RetroArch",
 		"version": "1.14.0",
 		"icon": "https://raw.githubusercontent.com/libretro/RetroArch/67372e0f38827ad878cbf5b3d294e47b833a53eb/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-2.png",
-		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
 		"category": "Emulators",
 		"description": "epic emualtor",
 		"bundleID": "com.libretro.RetroArch"
@@ -19,5 +19,13 @@
 		"category": "Emulators",
 		"description": "A Offical Delta Emu without, the hasslte of Altstore",
 		"bundleID": "com.rileytestut.Delta"
+	}, {
+		"name": "PojavLauncher",
+		"version": "2.1.3 ",
+		"icon": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/AppIcon-Light_76x76.png",
+		"down": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.1.3/net.kdt.pojavlauncher-2.1.3.ipa",
+		"category": "Emulators",
+		"description": "play minecraft on ios!",
+		"bundleID": "net.kdt.pojavlauncher"
 	}]
 }
