@@ -5,7 +5,7 @@
 	},
 	"Emulators": [{
 		"name": "RetroArch",
-		"version": "1.14.0",
+		"version": "1.15.0",
 		"icon": "https://raw.githubusercontent.com/libretro/RetroArch/67372e0f38827ad878cbf5b3d294e47b833a53eb/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-2.png",
 		"down": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
 		"dev": "libretro",
@@ -35,5 +35,13 @@
 		"category": "Emulators",
 		"description": "play minecraft on ios!",
 		"bundleID": "net.kdt.pojavlauncher"
+	}, {
+		"name": "Test",
+		"version": "1.5.0 ",
+		"icon": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/AppIcon-Light_76x76.png",
+		"down": "https://raw.githubusercontent.com/sillyangel/repo/main/IOS.ipa",
+		"category": "Emulators",
+		"description": "play my custom game on ios!",
+		"bundleID": "com.sillyangel.wallhugger"
 	}]
 }
