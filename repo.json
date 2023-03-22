@@ -39,7 +39,7 @@
 		"name": "Test",
 		"version": "1.5.0 ",
 		"icon": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/AppIcon-Light_76x76.png",
-		"down": "https://raw.githubusercontent.com/sillyangel/repo/main/IOS.ipa",
+		"down": "https://media.githubusercontent.com/media/sillyangel/repo/main/IOS.ipa",
 		"category": "Emulators",
 		"description": "play my custom game on ios!",
 		"bundleID": "com.sillyangel.wallhugger"
